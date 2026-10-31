@@ -1,16 +1,19 @@
-## Hi there 👋
+# Bruno Barroso
 
-<!--
-**brunomaxb/brunomaxb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Vision & AI · M.S. in Artificial Intelligence student at the University of Colorado Boulder.
 
-Here are some ideas to get you started:
+Focus: perception for aerial and autonomous platforms: object detection, sensor fusion and tracking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- **[stallion-vtol-perception](https://github.com/brunomaxb/stallion-vtol-perception)**: 3D-printed fixed-wing VTOL UAV built as an aerial perception platform, with ground-station YOLO detection, geolocated targets and sensor fusion (in progress, documented phase by phase).
+- **[projeto_visdrone](https://github.com/brunomaxb/projeto_visdrone)**: person detection in aerial images (VisDrone + YOLOv5) for disaster response and search & rescue.
+- **[churn-prediction-mvp](https://github.com/brunomaxb/churn-prediction-mvp)** and **[leilao-imobiliario-mvp](https://github.com/brunomaxb/leilao-imobiliario-mvp)**: machine learning and data engineering MVPs.
+
+## Stack
+
+Python · C++ · PyTorch · OpenCV · YOLO · ROS / Gazebo · ArcGIS Pro
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/brunobarroso-ai)
